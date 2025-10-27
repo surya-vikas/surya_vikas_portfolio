@@ -212,7 +212,7 @@ const Index = () => {
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
                 <img
-                  src="public/project2.png"
+                  src="/project2.png"
                   alt="Barcode Generator"
                   className="w-full h-full object-cover rounded-lg"
                 />
@@ -253,7 +253,7 @@ const Index = () => {
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
                 <img
-                  src="public/project3.png"
+                  src="/project3.png"
                   alt="Clash of Keys"
                   className="w-full h-full object-cover rounded-lg"
                 />
@@ -294,7 +294,7 @@ const Index = () => {
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
                 <img
-                  src="public/project4.png"
+                  src="/project4.png"
                   alt="Arogya sreenidhi"
                   className="w-full h-full object-cover rounded-lg"
                 />
