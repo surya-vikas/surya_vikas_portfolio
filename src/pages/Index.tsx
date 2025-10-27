@@ -170,7 +170,7 @@ const Index = () => {
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
                 <img
-                  src="public/project1.png"
+                  src="public\project1.png"
                   alt="Barcode Generator"
                   className="w-full h-full object-cover rounded-lg"
                 />
