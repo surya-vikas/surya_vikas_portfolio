@@ -505,7 +505,7 @@ const Index = () => {
                   <div className="flex items-center space-x-3">
                     <div className="text-primary text-xl">🔗</div>
                     <a
-                      href="#"
+                      href="https://www.linkedin.com/in/surya-vikas-thipirishetty-48a045204/"
                       className="text-primary hover:text-secondary transition-colors duration-300"
                     >
                       linkedin.com/in/surya-vikas-thipirishetty
@@ -514,7 +514,7 @@ const Index = () => {
                   <div className="flex items-center space-x-3">
                     <div className="text-primary text-xl">🐙</div>
                     <a
-                      href="#"
+                      href="https://github.com/surya-vikas"
                       className="text-primary hover:text-secondary transition-colors duration-300"
                     >
                       github.com/surya-vikas
