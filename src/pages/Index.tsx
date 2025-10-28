@@ -179,7 +179,7 @@ const Index = () => {
                 />
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">
-                CSAC - (Civil Servies Aspirants Club)
+                Feed The Need
               </h3>
               <p className="text-muted-foreground mb-4">
                 Feed The Need is a PHP-based web application that connects food
@@ -221,7 +221,7 @@ const Index = () => {
                 />
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">
-                Feed The Need
+                CSAC - (Civil Services Aspirants Club)
               </h3>
               <p className="text-muted-foreground mb-4">
                 Civil Services Aspirants Club (CSAC), SNIST is a vibrant
