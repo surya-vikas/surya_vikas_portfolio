@@ -215,6 +215,48 @@ const Index = () => {
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
                 <img
+                  src="/project5.png"
+                  alt="Barcode Generator"
+                  className="w-full h-full object-cover rounded-lg"
+                />
+              </div>
+              <h3 className="text-2xl font-bold mb-3 text-primary">
+                Feed The Need
+              </h3>
+              <p className="text-muted-foreground mb-4">
+                Civil Services Aspirants Club (CSAC), SNIST is a vibrant
+                student-run initiative based at Sreenidhi Institute of Science &
+                Technology, dedicated to empowering students aiming for civil
+                services. The club offers guidance, peer-support, discussion
+                forums.
+              </p>
+              <div className="flex flex-wrap gap-2 mb-4">
+                <span className="skill-badge text-xs">HTML</span>
+                <span className="skill-badge text-xs">CSS</span>
+                <span className="skill-badge text-xs">Java Script</span>
+                <span className="skill-badge text-xs">React</span>
+                <span className="skill-badge text-xs">My SQL</span>
+                <span className="skill-badge text-xs">python</span>
+              </div>
+              <div className="flex space-x-4">
+                <a
+                  href="https://csac-snist.onrender.com/"
+                  className="text-primary hover:text-secondary transition-colors duration-300"
+                >
+                  Live Demo →
+                </a>
+                <a
+                  href="https://github.com/civil-services-aspirants-club/CSAC-WEBSITE"
+                  className="text-primary hover:text-secondary transition-colors duration-300"
+                >
+                  GitHub →
+                </a>
+              </div>
+            </div>
+
+            <div className="glass-card animate-slide-in-up">
+              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
+                <img
                   src="/project2.png"
                   alt="Barcode Generator"
                   className="w-full h-full object-cover rounded-lg"
@@ -224,11 +266,11 @@ const Index = () => {
                 Barcode Generator
               </h3>
               <p className="text-muted-foreground mb-4">
-                Built a fully responsive web application using HTML, CSS, and
-                JavaScript that dynamically generates barcodes from user input.
-                Features real-time preview, customizable barcode styles, and
-                one-click download, delivering a seamless, interactive, and
-                efficient user experience across all devices.
+                Built a user-friendly web platform enabling online food
+                ordering, real-time tracking, secure digital payments, and
+                instant notifications — streamlining operations, reducing wait
+                times, and improving overall efficiency and convenience for both
+                students and canteen staff.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 <span className="skill-badge text-xs">HTML</span>
