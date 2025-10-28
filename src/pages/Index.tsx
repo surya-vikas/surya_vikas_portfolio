@@ -215,50 +215,6 @@ const Index = () => {
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
                 <img
-<<<<<<< HEAD
-=======
-                  src="/project5.png"
-                  alt="Barcode Generator"
-                  className="w-full h-full object-cover rounded-lg"
-                />
-              </div>
-              <h3 className="text-2xl font-bold mb-3 text-primary">
-                CSAC - Civil Services Aspirants Club
-              </h3>
-              <p className="text-muted-foreground mb-4">
-                Civil Services Aspirants Club (CSAC), SNIST is a vibrant
-                student-run initiative based at Sreenidhi Institute of Science &
-                Technology, dedicated to empowering students aiming for civil
-                services.
-              </p>
-              <div className="flex flex-wrap gap-2 mb-4">
-                <span className="skill-badge text-xs">HTML</span>
-                <span className="skill-badge text-xs">CSS</span>
-                <span className="skill-badge text-xs">Java Script</span>
-                <span className="skill-badge text-xs">React</span>
-                <span className="skill-badge text-xs">My SQL</span>
-                <span className="skill-badge text-xs">python</span>
-              </div>
-              <div className="flex space-x-4">
-                <a
-                  href="https://csac-snist.onrender.com/"
-                  className="text-primary hover:text-secondary transition-colors duration-300"
-                >
-                  Live Demo →
-                </a>
-                <a
-                  href="https://github.com/surya-vikas/CSAC-WEBSITE"
-                  className="text-primary hover:text-secondary transition-colors duration-300"
-                >
-                  GitHub →
-                </a>
-              </div>
-            </div>
-
-            <div className="glass-card animate-slide-in-up">
-              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
-                <img
->>>>>>> 6226eb0 (Updated Index page and added project5.png)
                   src="/project2.png"
                   alt="Barcode Generator"
                   className="w-full h-full object-cover rounded-lg"
