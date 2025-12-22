@@ -1,0 +1,144 @@
+export const personalInfo = {
+  name: "Surya Vikas",
+  title: "Full Stack Developer",
+  email: "suryavikas1223@gmail.com",
+  linkedin: "https://www.linkedin.com/in/surya-vikas-thipirishetty-48a045204/",
+  github: "https://github.com/surya-vikas",
+  bio: "Hi, I’m Surya Vikas, a B.Tech undergraduate with a strong interest in web development and modern technologies. I am actively developing my skills in full-stack development, with experience in building end-to-end web applications that emphasize usability, performance, and clean code.I enjoy the complete development lifecycle - from designing intuitive user interfaces to implementing reliable and maintainable solutions. I approach challenges with a structured, problem-solving mindset and a strong commitment to continuous learning and innovation.In addition to being a Winner at the Hack-IT-ON Hackathon, I also served as an Organizer of HACKWAVE, where I gained hands-on experience in event coordination, team collaboration, and leadership while working closely with participants and stakeholders.",
+  roles: ["Full Stack Developer", "Cloud Enthusiast", "B.Tech Student", "Problem Solver"],
+};
+
+export const education = [
+  {
+    degree: "Bachelor of Technology in Information Technology",
+    institution: "Sreenidhi Institute of Science & Technology",
+    period: "2023 - Present",
+    gpa: "9.17/10",
+  },
+  {
+    degree: "Intermediate - MPC",
+    institution: "Sri Chaitanya Junior College",
+    period: "2021 - 2023",
+    gpa: "9.54/10",
+  },
+  {
+    degree: "Secondary Education",
+    institution: "Dr.KKR’S Gowtham Educational Institution",
+    period: "2019 - 2021",
+    gpa: "10/10",
+  },
+];
+
+export const skills = {
+  languages: ["JavaScript", "Java", "Python", "C", "PHP", "SQL"],
+  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "TypeScript"],
+  backend: ["Node.js", "REST APIs", "MySQL", "AWS"],
+  tools: ["Git", "GitHub", "VS Code", "Figma", "Canva"],
+};
+
+export const projects = [
+  {
+    id: 1,
+    title: "Feed The Need",
+    description: "A PHP-based web application that connects food donors, NGOs, and delivery volunteers to reduce food waste. Won 1st prize in HACK-IT-ON Hackathon.",
+    image: "public/project1.png",
+    tech: ["PHP", "MySQL", "JavaScript", "HTML", "CSS","Python"],
+    liveUrl: "http://feed-the-need.infinityfreeapp.com/",
+    githubUrl: "https://github.com/surya-vikas/feed_the_need",
+    featured: true,
+    category: "fullstack",
+  },
+  {
+    id: 2,
+    title: "CSAC - Civil Services Club",
+    description: "A student-run initiative website for Civil Services Aspirants Club at SNIST, offering guidance, peer-support, and discussion forums.",
+    image: "public/project5.png",
+    tech: ["React", "JavaScript", "MySQL", "CSS", "HTML","Python"],
+    liveUrl: "https://csac-snist.onrender.com/",
+    githubUrl: "https://github.com/civil-services-aspirants-club/CSAC-WEBSITE",
+    featured: true,
+    category: "react",
+  },
+  {
+    id: 3,
+    title: "Barcode Generator",
+    description: "A user-friendly web platform for generating barcodes with real-time preview and customization options.",
+    image: "public/project2.png",
+    tech: ["HTML", "CSS", "JavaScript","JsBarcode"],
+    liveUrl: "https://surya-vikas.github.io/barcode-genrator/",
+    githubUrl: "https://github.com/surya-vikas/barcode-genrator",
+    featured: false,
+    category: "web",
+  },
+  {
+    id: 4,
+    title: "Clash of Keys",
+    description: "An engaging typing speed game with real-time feedback, dynamic scoring, and interactive UI to improve typing accuracy.",
+    image: "public/project3.png",
+    tech: ["HTML", "CSS", "JavaScript", "React"],
+    liveUrl: "https://surya-vikas.github.io/clash-of-keys/",
+    githubUrl: "https://github.com/surya-vikas/clash-of-keys",
+    featured: false,
+    category: "react",
+  },
+  {
+    id: 5,
+    title: "Arogya Sreenidhi",
+    description: "A web platform for college health services with appointment booking and health resources management.",
+    image: "public/project4.png",
+    tech: ["React", "JavaScript", "Figma", "Canva", "Poster My wall"],
+    liveUrl: "#",
+    githubUrl: "#",
+    featured: false,
+    category: "react",
+  },
+  {
+    id: 6,  
+    title: "Design Portfolio",
+    description: "Created over 100 visually compelling posters and banners for marketing campaigns, events, and digital platforms.",
+    image: "public/project6.jpg",
+    tech: ["Figma", "Canva", "Photoshop","Photoshop"],
+    liveUrl: "https://drive.google.com/drive/folders/1cUVu2f8aIC1avV33dzWQBISYFh2l9enz?usp=sharing",
+    githubUrl: "",
+    featured: false,
+    category: "design",
+  },
+];
+
+export const certifications = [
+  { title: "Oracle Certified Professional", issuer: "Oracle", date: "September 2025" },
+  { title: "Full Stack Web Development", issuer: "EduSkills", date: "July 2025" },
+  { title: "JavaScript", issuer: "Simplilearn", date: "August 2025" },
+  { title: "Master SQL", issuer: "AiForTechies", date: "August 2025" },
+  { title: "AI Tools Expert", issuer: "Be10x", date: "May 2025" },
+  { title: "CSS", issuer: "Simplilearn", date: "April 2025" },
+  { title: "HTML", issuer: "Simplilearn", date: "April 2025" },
+  { title: "C Programming", issuer: "CodeTantra", date: "April 2024" },
+  { title: "Language Efficiency Certificate", issuer: "EF SET", date: "May 2024" },
+];
+
+export const experience = [
+  {
+    title: "Hackathon Winner",
+    organization: "HACK-IT-ON",
+    period: "2024",
+    description: "Won 1st prize for developing 'Feed The Need' - a food donation platform connecting donors, NGOs, and volunteers.",
+    highlights: ["Team leadership", "Full-stack development", "Problem solving under pressure"],
+  },
+  {
+    title: "Web Developer",
+    organization: "Civil Services Aspirants Club, SNIST",
+    period: "2024 - Present",
+    description: "Developed and maintain the official website for CSAC, providing a platform for civil services aspirants.",
+    highlights: ["React development", "Team collaboration", "UI/UX design"],
+  },
+];
+
+export const navLinks = [
+  { name: "Home", href: "#home" },
+  { name: "About", href: "#about" },
+  { name: "Skills", href: "#skills" },
+  { name: "Projects", href: "#projects" },
+  { name: "Certifications", href: "#certifications" },
+  { name: "Contact", href: "#contact" },
+];

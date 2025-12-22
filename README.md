@@ -1,82 +1,73 @@
-Welcome to Your Web Project
-Project Info
+# Welcome to your Lovable project
 
-Live URL: https://suryavikas-portfolio.onrender.com/
+## Project info
 
-How to Edit This Code
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-There are several ways to modify and enhance your application.
+## How can I edit this code?
 
-Option 1: Edit Online
+There are several ways of editing your application.
 
-Visit your project dashboard and start updating or adding features.
-All changes made online will automatically be saved and reflected in the repository.
+**Use Lovable**
 
-Option 2: Edit Locally Using Your IDE
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-If you prefer to work locally with your own editor, clone the repository and start developing.
-Make sure you have Node.js and npm installed — you can install them using nvm
-.
+Changes made via Lovable will be committed automatically to this repo.
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
-# Step 1: Clone the repository using your Git URL
+```sh
+# Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project folder
+# Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install required dependencies
+# Step 3: Install the necessary dependencies.
 npm i
 
-# Step 4: Start the development server with live preview
+# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+```
 
-Option 3: Edit Directly on GitHub
+**Edit a file directly in GitHub**
 
-Open the repository on GitHub.
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-Navigate to the desired file(s).
+**Use GitHub Codespaces**
 
-Click the Edit (✏️) icon in the top-right corner.
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-Make your changes and commit them directly.
-
-Option 4: Use GitHub Codespaces
-
-Open your repository on GitHub.
-
-Click the Code button → Codespaces tab → New codespace.
-
-This launches a full development environment in your browser.
-
-Make your edits, test changes, and commit them once done.
-
-Technologies Used
+## What technologies are used for this project?
 
 This project is built with:
 
-Vite
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-TypeScript
+## How can I deploy this project?
 
-React
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-shadcn/ui
+## Can I connect a custom domain to my Lovable project?
 
-Tailwind CSS
+Yes, you can!
 
-Deployment
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-The project is deployed on Render and can be accessed at:
-👉 https://suryavikas-portfolio.onrender.com/
-
-To update the live version, push your latest commits to the main branch — Render will automatically redeploy your site.
-
-Custom Domain Setup
-
-You can connect your own domain for a professional touch.
-Go to your hosting platform’s Settings → Domains → Connect Domain section and follow the setup guide.
-
-For example, in Render you can refer to:
-Render Custom Domain Setup Guide
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
