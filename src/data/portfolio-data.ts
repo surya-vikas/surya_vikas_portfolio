@@ -136,17 +136,6 @@ export const projects = [
     featured: false,
     category: "react",
   },
-  {
-    id: 6,  
-    title: "Design Portfolio",
-    description: "Created over 100 visually compelling posters and banners for marketing campaigns, events, and digital platforms.",
-    image: "/project6.jpg",
-    tech: ["Figma", "Canva", "Photoshop","Photoshop"],
-    liveUrl: "https://drive.google.com/drive/folders/1cUVu2f8aIC1avV33dzWQBISYFh2l9enz?usp=sharing",
-    githubUrl: "",
-    featured: false,
-    category: "design",
-  },
 ];
 
 export const certifications = [
