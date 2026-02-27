@@ -72,6 +72,17 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Yoga With CV",
+    description: "YogaWithCV is a modern yoga and wellness platform designed to provide users with a calm, intuitive, and engaging online experience.    The website focuses on clean design, smooth navigation, and responsive performance across all devices.",
+    image: "/project10.png",
+    tech: ["React", "Vite", "Tailwind CSS", "shadcn/ui", "EmailJS", "React Router"],
+    liveUrl: "https://yogawithcv.com/",
+    githubUrl: "https://github.com/surya-vikas/YogaWith_CV",
+    featured: false,
+    category: "fullstack",
+  },
+  {
+    id: 1,
     title: "Feed The Need",
     description: "A PHP-based web application that connects food donors, NGOs, and delivery volunteers to reduce food waste. Won 1st prize in HACK-IT-ON Hackathon.",
     image: "/project1.png",
