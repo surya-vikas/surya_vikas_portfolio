@@ -11,7 +11,7 @@ export const AboutSection = () => {
 
   const highlights = [
     { icon: Trophy, label: "Hack IT On", value: "First Place" },
-    { icon: GraduationCap, label: "GPA", value: "9.12/10"},
+    { icon: GraduationCap, label: "GPA", value: "9.17/10"},
     { icon: Code, label: "Projects", value: "10+"},
     { icon: Sparkles, label: "Current Stage", value: "Undergraduate" }
   ];
